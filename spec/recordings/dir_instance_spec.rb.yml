@@ -1,0 +1,1839 @@
+---
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9bd7ed1fe93e08c106855e0f7d71ff10: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1fd8fd2c4c4bf58c6c93835a8d3418d4: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7cb7615d1982b961512bbb0b2ef4ff74: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4b793058951b3f84e1f8cf8504488a46: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0ed79bed52e225082f832b08a987a0e9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-dd8ee642f11a54b3a710a5ee094df8c7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-cf6ae1829dd753d75956c9ca9d133a19: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-cf6ae1829dd753d75956c9ca9d133a19: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ef7fb98c0b45fcbcf9241e3a888a7607: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-bca30f345f9701c1c584b02e2ce56084: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b03626d55fc4e13ad8b3fc69fd6d3f8f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f784e570cb245a0d76a6f227856f6635: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-27720843a83cea4050932636adbf6ef1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a2ecfaa06158455308dae3ea7d0a3c7d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9f73460f7b69df38acbeb504744872eb: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-477125a92c84ae3156fba31842221416: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0f08b6298e1066e04f6f2a35b6b519cc: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0b8e711b91e47cd1a92ec2f197e21d7e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8b62aa9d45ebe309bd11cd46c801e7e8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-efceaffabcf9672858ee739fd55529ca: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a7f0251729ee7d568a451cacad970d87: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-db31d721340344c0b11ef27a26a3d0e6: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2ee2a863bbb217402d7e1a08e0ca2ad5: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-842edae9fe03f7713e52763e1dbd39bb: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248312750600
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-1fc79c3bf6a1ef1e4e6400c3a79c665f: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e3e44505a359346f9bcf36264b8329cd: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c9403494f370f2c3538d3ee309fa78c8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7b2e9b6dd08bfcab9ce49d86e11b2f46: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c64a63449383d22bbb7a3e14d08bb19f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-31afdc2219e2512bbb5658a8817b92e6: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ae2bef2aea667569397758b9d5e5715d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6bf1e52504acf0ff226ed471d5774529: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-6bf1e52504acf0ff226ed471d5774529: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-cd7934a3888932d8e62bc14d34bac02d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2c4fb5a03d478bd8f1139c1a716d28b7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a00c73aafdfb0010b1ed963f67500349: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a792e36ec9b6dffa344284e6e60a647e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-67c2e24de10935f6a63ddbdc3c67b434: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3af5baacdd7ef68ed9daa7cd5299687e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-5ac0be7c9c1f007dbe4a6119e92f51ba: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-9774cf7d7a7af428fc69550592c410cf: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2af6e3282422c43d70308b7b667e2fe3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-91c9e938ffe7f849f05b1a09be775e29: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-42da6057306445bf421f8a53159d80c1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-919d6a40fb0d2e393c630f15e6fde662: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8c65b377121abef5fc6bfa6f6fba856a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-5eabdacefec6290ae241cc488c2b0087: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3651fc3b954522dda5eb9e8192ada8d8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-aa918a5874e052a44f62c9657e019745: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248376516680
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-188469f1563a8ee813974ee6592e549f: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2266a75b885b4075c683f9d3d7fc2374: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-be7aa8b957ba93fd514e200bd3d35219: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-646287a3d75a0e099d0601297b0149f1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f8a5185097cecd151bbfdff364d78b25: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-89bc688af5bc70282915c894d873ddde: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2c1cbdb927e49042f5b464bb8ae49d98: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-dc0afb35c8d37c27e559e6e2fbafe815: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-dc0afb35c8d37c27e559e6e2fbafe815: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-364c279f200f33ef488bc534cbb30638: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-23d3bf8b8e66adfef81fab1b608652bf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1e26100dcc8337bdc5a6b8ec87ab693d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3b0b47935267c1ff7cf841e35fcb7fe3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-09b0c2901e9d566fcffcf37e22cd935d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-79aec2928b3fd087ae88d0b326446452: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d0190a1b6f4b1a5245d7da792cc22c70: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-d549cf7c4e9462d8c1ee3263e274decf: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4fac43800b01149a0efc393a60d0e4fc: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ed1f3d6fa6f7b8061916e42261d40e15: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-bd948d26d6edb92ce72d6a93e0d0b6b0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-94b4d7c8229fd94bc1ab6fbfcedd3487: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-53fa028c88cf2467890aa4180a5d70a6: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-80d0dcb237be90d1bb6b82839f4a2b07: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2053afd84bd2f79c67981d35d534651c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-2a1d80749fc5b0c6fb579fab533d003a: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248375950420
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-ec83c9cd69313b0c5bb0021cf948922c: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-af8d9396bca487aa9003a677e083fe5a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-36d5e49390dff8b09064c4bb4fced4a7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-fd6ac601b4e96de6e185b4eb42a6e2bb: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-034cca3b5270cff780574f691ee5c626: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8b1d5b03c96cfcf4cfb245da8390c68e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1cca377062ac4633b3d35daa30d737b0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6a908d8cb1504176ff305e3df0adc30c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-6a908d8cb1504176ff305e3df0adc30c: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6555f8306e364aee76aec9112c8124bf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e7020569ed3bc083072ebaf074bb54c6: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-55d767700db5d5df8be3fa6d97be8ec1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b7eeb5d5de7ce3534308d8859ce12ab7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3108aecb2026a75c319ca8a45a7e8bd3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ca0364c684e9f8b0aa9fcd2298638406: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a07711ccce4795d60cdd26999c0065c1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-9d9a3f044def36054f0c19f999072ad7: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1fba7de1735343a70afdc0f944a95e75: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2d44cb9dcec553707bb6c7d1e8d85b48: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0189baf59ae3e637c4343a905aa4dceb: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-89bc6e0d9dd65c06187489c13c7f8900: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d235afe0c6ad8398d3be900a56481d16: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4653d76693a6c4923275493308ab350e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b5866ff84bba4119207a73fd7e7a1a68: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-67066139066b3ba6be6b9cae70b81143: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248375736820
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_each-3f5f4e5042d1accebfbda3725124f288: !ruby/object:Camcorder::Recording
+  value:
+  - "."
+  - ".."
+  - ".DS_Store"
+  - data
+  - dir_class_spec.rb
+  - dir_instance_spec.rb
+  - file_class_spec.rb
+  - file_instance_spec.rb
+  - io_bufferio_encoding_shared_examples.rb
+  - io_bufferio_encoding_spec.rb
+  - io_bufferio_spec.rb
+  - io_class_spec.rb
+  - io_instance_spec.rb
+  - mnt
+  - recordings
+  - root_spec.rb
+  - spec_helper.rb
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-0af00a8c5be7d61d0243955e52e1960e: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-92625af7bf5a2075056a5615504b4c1d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0aee756fc656d2ef9ccae9afa38f1f98: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-42356dedba000c8f76b484a284a03138: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-89f882a064edbb615e87a4b6ad3e1c84: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f51deea097f9cb472a9ddd24dabe96c9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4ca2657c7ac4485763b1d1f4637b6ded: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b683d2a20e161ad7b22877de0e447d78: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-b683d2a20e161ad7b22877de0e447d78: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-fb9f677365200b1a4f96f1ddbc1895a1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a2cba4369cdee32d601ad3b7f441b5b3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d4d0f9b647ad20f5959f8f5a4f7f2125: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2874fcbcd4383cd346f5c7bfeb53ba6a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9cb4dd31279f4ea4604dc4e8b7e8cd4e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-69b4f15eb0b0a51aacedfc61f6a7343c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ef55027366a4ed19ff5611af8d1e6b2f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-ebbb33e96b1bb27f6b3a0e68c4f92308: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b259ae7a8dbf1cad63b825488d8d72a0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f53a47fa6795d9fa7e7690f089d84d49: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-bdf4f748458ed1f77c1098da21ed3f68: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f1552a3f6d9164900068b59f98a58808: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0a5e9015b0fe6965afe09e576eebbe0e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f2cacef0082bd167d2730114bfa87b34: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-dd345753a99e79c92d13c12b8f4a078a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-d5ba837c04a4164aff67f62d39e8179c: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248375623300
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_each-2c90ab08b1e2f48606f4ff2190eeb214: !ruby/object:Camcorder::Recording
+  value:
+  - "."
+  - ".."
+  - ".DS_Store"
+  - data
+  - dir_class_spec.rb
+  - dir_instance_spec.rb
+  - file_class_spec.rb
+  - file_instance_spec.rb
+  - io_bufferio_encoding_shared_examples.rb
+  - io_bufferio_encoding_spec.rb
+  - io_bufferio_spec.rb
+  - io_class_spec.rb
+  - io_instance_spec.rb
+  - mnt
+  - recordings
+  - root_spec.rb
+  - spec_helper.rb
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-94a844794e812e17a24784803289a240: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-74e64324e2b30c44615898f01ad4cb67: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d8696e75c384f86d34776813b1aec587: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-99cfd1db17cf2fc4d911b3823f5812f5: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9f9e7b79ad6e5ccdd689db72150d26c9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9e409ca4e49d41acdc93d69395bc9385: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3f7494bd7d0796b5eb4836d026f5642c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-57e8a10a6c29ef1986e6e1b782f8227b: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-57e8a10a6c29ef1986e6e1b782f8227b: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1f1f92185962091b1e9e6d6c3736d846: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-cf6a932ca7c5791d67a35196399a29b0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6a84eb0a8bf6e63065da4db21cf74eb5: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7044df4d25148a22d8026eac65a1566e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a49df4b0d4bb5e27323e59dfc4a4a940: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-756cd6952548d596f9dc110c2b31e4cf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-76b91b9e4a580fb9ede54da2c20dd467: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-075ff2d3ff7e6def86cbe0a4e09150ef: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d3cfb7b76ed890e69a35178aa24c29f1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0df23ef4846081e5cfadceafe86efd41: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2343d34f1cd0d751f3f9905dbb9d3b8d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-bdbc7c6d57046820994e674fc696b437: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6d5c5c2751a5fad5006f629d0b209b07: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-90c12df042c850d5db047f391e855bf1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-31db0f1760e23d16602495aefae0ded8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-43fb5c36fa5c021b4b71bdbc170f05f7: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248355453280
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-aebee423ee2564b85601100129e3a640: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-af5297774322561e280d5fce867e097a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b4118593811db9ce5fd79b9dbec75465: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-62f4d6d3b876b53d1598f4fd2de7d277: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f5507618aa375ede46a7c5b4ac23c1a8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f30a5fe5c3dd88e6d2efe96b1bc6b75a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-62cec8b4a2f9e8598b1fde21e7393334: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4a1575d6ea2d660faaf05517133ea33e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-4a1575d6ea2d660faaf05517133ea33e: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c3aaf9a43adfd5a0b6b1e8bc93466f91: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-dc5c22a0bf942703a9c98ca399f4797d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-aed7617c82017b78a804ac44160b21e9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9463223d7c40c79d762abb0dc9a3b424: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4dfdc379fa260f0610c5d22963b27217: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c994e123473e2cb30523cb8e8e0a0307: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1eb5cd747f279da7c9a77d09b35fb635: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-67d0f32e5697a49c4557704f21ccf158: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b1c1f28402d5ebebe6e9b0b988bd6af6: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ecfabae5b5f39c250b7b2cf5d0b34788: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-48520883689c2e10014ce4673dc5ddc4: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-02b10a9f78e15da4966469fdd630720c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-be319fbe5e0137479b0b6f48c9eb2949: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e98c34942859fe55b9ebb8a121eb0e68: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-e98c34942859fe55b9ebb8a121eb0e68: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-86c5758d851fda752baf65c9e1e1a786: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d82a8fb8f8c30dbb8af5a6e34f4c6a46: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-de4e2d48af16bb9445a6b9841b867afc: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4050b8e1bfcb3def24ac14eb65f292ca: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-13efa8108713b7f83e129f7eb4c7a8ef: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-06b09e8a66c11842aaa5fefaf5fdb4ad: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-3b4d60960e5eccefe6a0f595d9decee5: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-368d265c6a8af93437753e6298ff88a7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-88fb6ed707ef6671a90718ae2548d35a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-843fd184ea92c863d315b249223d38b1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6bae842787839b3ce5f086ec8bea11a2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-609b374ee59437534ec50effa4d61f04: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-259a472e3c03e4583a7c3c98a16ec614: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-fd87b875247d0f2f7b19a60aac05943d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-6be0ff31419feece6f8c964c59000ed8: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248360311580
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-5e011aaed50bed328f7f91ad3b68d81f: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b93ac6de3b79e1b6e80c5e006d2010ca: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-cfca571063a6135b4c889e4630a382b0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-059327cd14e4ab1655f8fac56d7866db: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-193ff6c5830d18fd84295be2c29c1da9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-10b16d4bbf2551345c4b962ea307d6b8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c1f651f9258fb0ae403c032587c9c365: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e9bb558fb20efa31f8b43972d109d78a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-e9bb558fb20efa31f8b43972d109d78a: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-96f4eafc103cc863ccd95b4b9bde90fd: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2f1b86ef3c531e355f10d4bb83b990a9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f1c7070f7413c856bdde20a8cdcc9337: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6921b0285b1b546c22851ffe18127be8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c03c7358d03cf127b9d7f65f567afec2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-5c81184777bb9472b063a3acc9e2527a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-188a1d384d4380603d4e73aafc14e9eb: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-c4486da0260293338beb90f286a41c98: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a695393d3fde597af75b5a72682dc8c1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-281a9a918e0b56c0f2ad8190a48b4739: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-328f2bc951617f92379e097fa3b7351d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6c8e79f0c163fd2a416e55a2893dd77b: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-abe26b5a5ab15422defc5d9fe52ce1dc: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e131cd6c885d0c4e33b5cbf3559593b5: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-797c647e9c0898964dd8064011b14f4a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-9d5de5aa1dce92b2b83e786b095f1113: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248375229660
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-596052db4412f0b30fb1909b30dfb2c3: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-21c959e8c75b256a501cf94e8cdba0b8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3ee6d7ce828e8aff017b20209b64e59e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b8e9d2a51f021c14fd0703021e01b327: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-413bbf7b4e922704175e597e9bff021a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4191cf89e7b0780b5f6ea165443f32d2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-19abf5887efc4c110326957eb6b8199b: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-741eaf344819af991caae445d0c9f42e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-741eaf344819af991caae445d0c9f42e: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-04037ad6f27dad563f5e6c7450b2f55f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-db3c686a135fd522fd1587e4dc256cb0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-61fee28775d3a2c41a2404796ba99755: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-28c2cd3fc34e11a7cddacdeddd49341e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c405935dbf67bb5c236c04a8d11b5a4c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-19d59b005e76335a92e659389a75ed60: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c380407e583f324ede045ccd0ca767ca: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-76b43c367be3e8e4866b60bd37b1984f: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-39f0b4820fd79aa7a552ef88808babfb: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-482ab4d0ab21e46ec94877236407428d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-976500858a58faeaf692265fe9c3cc20: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b394995792b8ed95da52a61160d90dc0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7c401886f7e1a17d4f910e294b1ee78b: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-87cb1e8bf4cb535ed867d9a6163a72ea: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-aad310872bcc1ac654756350d56e46ae: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-e14bfcad3741c5233197ea257bd9a403: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248374903660
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_each-d598b7c5617a31fbc4f327d497bf84a2: !ruby/object:Camcorder::Recording
+  value:
+  - "."
+  - ".."
+  - ".DS_Store"
+  - data
+  - dir_class_spec.rb
+  - dir_instance_spec.rb
+  - file_class_spec.rb
+  - file_instance_spec.rb
+  - io_bufferio_encoding_shared_examples.rb
+  - io_bufferio_encoding_spec.rb
+  - io_bufferio_spec.rb
+  - io_class_spec.rb
+  - io_instance_spec.rb
+  - mnt
+  - recordings
+  - root_spec.rb
+  - spec_helper.rb
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-150ad1eec824d00d8be5290f9f3d78fc: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-32983cf76e17ba1d49d0ed22aea752db: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-84c836fead0f75f237b48b42e680c0fa: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b8f236f876ab93a3e0c9d7d400236f62: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c9d21fb84078d46732346c1135dfe488: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c6f8545d997f5d8418250302e196e49b: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-03ff862d77e861c456ccbbde1d446128: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-58d0b6f9b8c8e1493f1622318e95241f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-58d0b6f9b8c8e1493f1622318e95241f: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d7e47e88cf31c56f37ac71e0d1a54745: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c391a6b7d4927d48a9a1c08ab1272d74: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a341decb132732d4d309fddf3e57455c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ecc13f7ffb77b7a48c8be5c1616f4431: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7ab737049ecfc77753ce652bdf947b38: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9cde7cbb7adc55a3e46e01fab3507776: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c340a48f85fd1e3a53b9c4a39ef87bee: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-b2e5b30cc82fc1620567b15eb97d6c08: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d0bc45d8bef9b879e49f87ab3d035d9f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-40bdef67dc302c57ee374f2b4fb27ad1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-345f130df76fe4e3098e8e2389ec3615: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9d931f0804c56269131f9af3d39a97f3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1574eaa735fedd8e9eb25eaa6d6bd7f1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1650b8983a8802ec07273d4a17aaccaf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-effbe3dc7ff7af39581abb57b5ef312d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-6edd0bdeb5dbc51e842f09e02f00594f: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248374498820
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-49285a96cf72ff055f38ad5644e8871c: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-bff032a58363f854c6af24d4f1d12ab2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8f6c3b1879f8e03307baf8c9bb570e78: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-34189c2f70bddfd3ec60dfa8aa5d79a5: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f52c1f82ad074e3e112850123777dba9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b20e3e46db83448cb19d7ec7a5b9f135: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0ace7c73c844f897ab59c6316a0e0fab: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d056aae6abc86ee1d9ce1de06f040a35: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-d056aae6abc86ee1d9ce1de06f040a35: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-41f95d5cd25b4f9366adc7ca026f378e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b68f66cbc9a936ae65cb2712b01c12bf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2b13775f8812ef2f4197bb37482ff5f0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e2b90cc693c71a3b97f288b1ac99360a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c0e9a27f1dfb0cd1118c4ec923ad5b69: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b2238eaaf3c5e178d08469b3c1da89c4: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-df0c1ea162898396191e5757af6a7908: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-5c4ae575248beaf4a02accb1e69d414e: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e2fd4cbb6f352db73613216f1cf2a44f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-fc8b8502646f00d619aec3a23e505211: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c51e28cc6ee3d564eb217d319703eeae: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-206fe2d72d449950a630e7fb6ac55958: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e084777837ae79d43147d5f9a3e0cd66: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-72bb54440ffa2a16e292f690e1c63dd1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0d4dbc6cf52d7bd2ddd8db181c7f76bc: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-4882fd06b4bb34a82c54e3d9adc8a5fb: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248374232100
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-53507627029cba1032178f6fbea598cd: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9b3ba9a9fa7986d94db796833edba167: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-877a61d33242d396ea7a0074397df036: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-59cce886cff212a88ac9c68992ee4c00: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-559ad747748434d2b74f2a65ca91cc84: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3b1597ebaa9e1b51bbfbbd9dbefef479: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-13f34b1a5d15bde186ffeb68df00add9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-17593b9d1659404c83db83081108ad6d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-17593b9d1659404c83db83081108ad6d: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c54782ac577faca8a61c1dbc68963596: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d1d49fd827546e6caeb1464b90cc8a05: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1dba252d5fe9413fac13b1336c1bc1de: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6cb51579bcbe1e6a8a8ac500791cac30: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-71d19c8d6aae16398430f7f75aba1cf7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-096c535f4d794647ee16e5dd5b969c57: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-34f7a6c83874c7eb319224aed7d38d67: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-04a628a112f4ed40c6c2819b03403430: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8ac9acb546bdf3f09d0a6d3b368905a6: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-56e31796a7486c8061829d612e1248e6: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-fb44c6e8932da9492de9a07bd1e761e9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-902893177106a73a372f1f2a15e2a23f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-17c1903270f8006c15797de88af2a320: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f7bd0ac1594404b6f9791677a45eb818: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6aa948b0d2216b84a4fa001a7b66b619: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-121c61756adffd3820192df85b69df52: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248359973160
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_each-7a1f84cc982b4bc98737381b82cdc9d8: !ruby/object:Camcorder::Recording
+  value:
+  - "."
+  - ".."
+  - ".DS_Store"
+  - data
+  - dir_class_spec.rb
+  - dir_instance_spec.rb
+  - file_class_spec.rb
+  - file_instance_spec.rb
+  - io_bufferio_encoding_shared_examples.rb
+  - io_bufferio_encoding_spec.rb
+  - io_bufferio_spec.rb
+  - io_class_spec.rb
+  - io_instance_spec.rb
+  - mnt
+  - recordings
+  - root_spec.rb
+  - spec_helper.rb
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-76bfc3232e17abbbd7849d7bbc9e48d6: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3fc5bdf940a0d1908035c7d43b65bf7d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-acdcb6541fc743e6a7878d08cb1db91e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3e22624027704b223886e6175c5f8c80: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ea68ae69f44de0baff785eddf1203ed9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-21040ea557b3838e2ed467196511f4c1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0f2218ac3ea369f59ff7dbe561ad09f9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-55feca4a1bd0a73aa0519dbb511d4b4f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-55feca4a1bd0a73aa0519dbb511d4b4f: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6de274c93b45258eae00c7cd3cd14bc5: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c2686121d37248f33cb581c63a936a52: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8350492e312c8740907af8edba0347c7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-47860134ece59328c7f050e6694c12dd: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ed416ab83aa1aefadaa4c50c6590a47a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-387d6f316482b84f09ed3a564ee80f2c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f45f5bec60feaf96ec677477bf83e4eb: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-c29d9ae9e680ef58c5a5ace9442caa0f: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-88a10999078f94b5e4da5d36426d638c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-89c78e70a15b696fdbb319f9b24595eb: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-72af5bc5c66ed681de8e0fedb9d0df82: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4b7106362693f392f74f840be42bdde0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-5e68945a0934d12d401d77a6a574c091: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a7873402236b86296cea7fd28eaf4c3a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-52c75d3ab760ec1a649aa24570569793: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-1434c128ce3fd98a018f23add4e0c147: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248355481360
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_each-3bbbb949bca7ef7908ffdb99e1d6f238: !ruby/object:Camcorder::Recording
+  value:
+  - "."
+  - ".."
+  - ".DS_Store"
+  - data
+  - dir_class_spec.rb
+  - dir_instance_spec.rb
+  - file_class_spec.rb
+  - file_instance_spec.rb
+  - io_bufferio_encoding_shared_examples.rb
+  - io_bufferio_encoding_spec.rb
+  - io_bufferio_spec.rb
+  - io_class_spec.rb
+  - io_instance_spec.rb
+  - mnt
+  - recordings
+  - root_spec.rb
+  - spec_helper.rb
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-3c2c09e1bf3cdd1c0f44ed2219b0e4b6: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-acdb54e8a36ff3dd9fd54215e15dd61d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-12f5eb4bb2b78745abd72719a844303a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0181c679f1d47c9d45352979820106b4: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-71e7061adb8e26fda7b6cb2451e1f2b2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-afd9777c00b49197c6cdec798891992f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-babe27234ef436ebd06630d07735eb52: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f581cae5d920462fe72a42086643322b: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-f581cae5d920462fe72a42086643322b: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-86cd09ec439c5d46efffba3920293e91: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a02812ea9d0251b23a0d3fc9df941666: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1c3830a155b104e741a0fc95d0cb7d41: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-160edc291cf4a1f5de28ea45db51fdc6: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ef4056467f7abc2da2586647d2904132: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7a2b136f5d77d7b340a3bf1f6e8c7d69: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ec5b996e509922f6fdd0083d5e639130: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-be02bc62e2ac5e5849e949175f0d182b: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-75583e27892e06bc9fbb49ab7779a36a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-02e66678b1e63047de902d38eea59777: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-92a63e00a5446f35046ae59477925dd9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-dd26b9eb07c651512374d29dfda6176e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e6061bb490867439c9a231b5484fe843: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a88222e3177b747ed8188a9e5fcdca5a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-03a6f1e1e47238e71ac7e3132bacef59: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-8067c3b94cca42d208013462938f1aa6: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248357819980
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_each-dbc0b1445b175de613913e2b8143f75c: !ruby/object:Camcorder::Recording
+  value:
+  - "."
+  - ".."
+  - ".DS_Store"
+  - data
+  - dir_class_spec.rb
+  - dir_instance_spec.rb
+  - file_class_spec.rb
+  - file_instance_spec.rb
+  - io_bufferio_encoding_shared_examples.rb
+  - io_bufferio_encoding_spec.rb
+  - io_bufferio_spec.rb
+  - io_class_spec.rb
+  - io_instance_spec.rb
+  - mnt
+  - recordings
+  - root_spec.rb
+  - spec_helper.rb
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-f890af03121230c22cf8571bd5a3baa8: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ca18c4e76c04b4eb7e9695008673d972: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1b9f1e3661cbb856dc02d5c5c8642d5f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-81e83dff913c85d5b65cd232a8551551: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f4740c8885549543077ecf9d386bdaed: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-fa84dfeed71db6d33e735be785a36a33: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-38e7a106356605dfba4b92e6e1e81341: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b3810b0cd3e38d62ecb2c58fc40a62b1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-b3810b0cd3e38d62ecb2c58fc40a62b1: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-95755004b805ab437de022a5b35d2d00: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-5c6e0c2602e468261bbdb450530c89cf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1700a3315e5b96956a29bd2bf1859017: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1f58d52ba6486f5768303ba505d2932e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-09d15d470de02acf75dc530cb4566624: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-09bddb79c2910efbbe7b00b7d9e3a3be: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-512a8ba7138751f48b6319dc6d90e9e7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-9cf59fd787672687672996cb2595d4dc: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8e4205109347d3c0fa4bc93f7cedb8c8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9c9ceb5f16769a9161073965eff42d4c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-c3768ba9afc601efab45f6c64665ecb7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e72c6f598cc559862d082a0b350ad35d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-be14e05b16ceb1f73faea6a5c9e88aa2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-aeed7065e74cad44d9bdbf1c8df4c0f4: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-620ab73fea92b548938776ff6b6b2ce9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-832c27a67d93e83ff366733470b6abe6: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248376302580
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_each-80f3604b54348a00ff58d2d0555e2eac: !ruby/object:Camcorder::Recording
+  value:
+  - "."
+  - ".."
+  - ".DS_Store"
+  - data
+  - dir_class_spec.rb
+  - dir_instance_spec.rb
+  - file_class_spec.rb
+  - file_instance_spec.rb
+  - io_bufferio_encoding_shared_examples.rb
+  - io_bufferio_encoding_spec.rb
+  - io_bufferio_spec.rb
+  - io_class_spec.rb
+  - io_instance_spec.rb
+  - mnt
+  - recordings
+  - root_spec.rb
+  - spec_helper.rb
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-8ba100a3c0ed84b17c863601c8c2ebf9: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-13dbdf5aaaf96598fb99b4624842dae5: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-36e776f27495f8a0d4bde511cd5f984a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f31634f6d58c81331e482283010d2934: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7aa8667f834d8187df54a39ad8ba4e03: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4711c04d8aaa3dc99d186c7e865caec0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-00fd99b27d4de32aba629d9d6e6a923d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6e56020b4852e8204dd09457259c265c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-6e56020b4852e8204dd09457259c265c: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4c03427b1de7ee9af9962fe197113b96: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-fe346e58e6be0c2d23d898ec9738790b: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-78859c72bde329646e2080ade0b05d9b: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f5ea098e19eb4d577bf57a662944e02d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3f8a228236380fbf60a2036268cbc1ba: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-052ae4d1f3e52c6bc96526027d1946b0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6e52f675a9556de3d05c715c0db3152e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-db4220d8593f8406d1626b19b9ab33ef: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-bb6a5ccc8ce99d8bf27c91a51362e4a7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7412ca2b71fc171ffb232b77ea2ca8db: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0f443ab4173c7f3db9d94bff27011824: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d6234fc292a6b02a210311ab16376c96: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-dcebb5f28879d754064ca15beabc0785: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8385f1840c479b20984b5deab879ac51: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b555408e4b0f1e3c021d44567c505f61: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-37c51ead1dc4b87594037920d545e057: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248357188620
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-c2d334d2be633a1b5c592cdc95e5dae6: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d3459ad186d57799b65ce63dd53be668: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-831e3e40a2dcfae20e267233fac4a810: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-67153944c4b5c19ab54321cb323be405: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-43935cd2008df7a99925c034742d15c9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-337d7e79098a143e4f982897962b6a5c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-cdebdfe5e19f61bed18d0fc9b618b3f4: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8c4eb1eb534fcb3f00ade0868ce0a95b: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-8c4eb1eb534fcb3f00ade0868ce0a95b: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-dd6e84affd21bdc1e6a20726e832e498: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7689e0d8116402838a308054eaaa7dbf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-54fc7e2dbe95a8fe8aba1aee83fcb2a9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e65b6cf3efac474d8853375fa9f4d4ef: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1f2dff6fd8d451fcf1561ec43ac7bbcd: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d65a2ea611ace032a2e381a257d9260f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-17ff3a3e1d26d8b87af948139681d922: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-d9f3290b5c2f151a5f23f75c0094501e: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-90788135096868bb36123a04e3d389a3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-fe2570f3fbb15c267c824343495f0483: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-07d0c098651a96efe987a5ac87249b6f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-45d2afb7e533d1f4d55846dbb69ca420: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-706b4f4e1758d30b088fec8a10f047ef: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1c19b6d5cffe7a1c6a19dbc651011396: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3c725fa117f3aee041367949a254c017: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-5bb637f5e4bcfc48f742ad7ebc3d2192: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248373069820
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_each-fd88c3d1884ececa6362c48ed7f85cac: !ruby/object:Camcorder::Recording
+  value:
+  - "."
+  - ".."
+  - ".DS_Store"
+  - data
+  - dir_class_spec.rb
+  - dir_instance_spec.rb
+  - file_class_spec.rb
+  - file_instance_spec.rb
+  - io_bufferio_encoding_shared_examples.rb
+  - io_bufferio_encoding_spec.rb
+  - io_bufferio_spec.rb
+  - io_class_spec.rb
+  - io_instance_spec.rb
+  - mnt
+  - recordings
+  - root_spec.rb
+  - spec_helper.rb
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-c292a593764f1341db4bfd3f2930afa2: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-301655738878c026b15de874dce84243: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8ca3135e25e489e44b5bcffefcaee02c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-58cddd4ba777741786fa333b04be4bcf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-714dd193a5044141478b7824f21ca5c0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-de7146c9be016e81920de0255ff8f3c4: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-49096e90a1fa8717f889b203742d9111: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-39bcf66ef7a5e2c018de3bd483378489: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-39bcf66ef7a5e2c018de3bd483378489: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1d22a8dd89a837815956d76ef0b98e0b: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e5815533d5a2d60a4bf1b694b90b33bf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-55b4cc6001f041186a75b0b9c8913eae: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ff119806ee7403b50ec668792c3187f2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3cfbfb8a89151004d5de14808004544d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-977a5f564751609b7452d39b0bb59e88: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2f3b68b52fe3e416e10f9c2ea5345309: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-d27f0e47ff0d055ff639f49616871dfc: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d82ac4ca6b1ee559f7f50663346215b8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e57ccaa30acad101d354a7aff6e50bc9: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-edf57e5005c280767ce13b62761c14ea: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1b418d050c5b6226ff8783a72530bd34: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-72024e168c4bca1e1118a4974f4a05ff: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-73289ef93848db986939530a858f87a8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7261f677a9a89cdca1b92866d541c5cf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-c4e626fba371bb8efb8d412fc510cb0b: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248359167240
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-d3c3986d29034cbc37edde022b297717: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-5d88ebf3e1661a28cdd813275ac2b63d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a6bcb27578a35b4c4fad03b72f9d736f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4d11acfde758b09a7aa956071aa2eaa3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f51761a70e3d7922e32b070f5d0a4b61: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-840c14a21fffc561bc2c6db33d85747c: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7ab3f1ec2bc815ac92ae2e81f64de726: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7a2387c4f474c4c46b6464843eef6cdf: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-7a2387c4f474c4c46b6464843eef6cdf: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9572b99e7ae92367639e0873e4859529: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8bdb030754b0bbc5a2321c03b26a01dc: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-669dbafb9e488971aa167693d9b69054: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-08ee448ddd6826d854910d727ec0e016: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0979e10d818ee39f948f2dc882c1b781: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6f423117957a22631a615e4c772a5418: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-32015cb258fd1cc0adffc40575122710: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-17c3118b697bef329cdc2293449b7b4e: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d90b49375c0a08c8e951db8ca16d26fa: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f1cff905274d67c42325bada2cd46f7d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-fbe51114a20cdd585a654c66f202dd04: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ca5b83ec1bc0739277977967253a50f8: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-8a998b31e641d8dde73551e278992293: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-34bac1296eb1387a048e7c64f52b42e0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-665bfc2aa5267937e67af66e0d683811: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-a71343f638a484a0ce6ad3c3bfde307d: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248359611940
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-5f4781507f14dd246f88cf230fa7cb39: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-aae8b764bb4c404e9eaa435ab4e012c3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3027834fb3b16c513b09eb69f913afe3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-dab25f0ef74f0801c3adfc015bdb8fd2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7c651dc35a91d809641326cba54bdae4: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2bcff3394c4ae548ed964e2e1f353a1a: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-dd23b3dd708140ead1952daf6767d30f: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-25bc35f5aa33f4c165c0c26399aa1716: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-25bc35f5aa33f4c165c0c26399aa1716: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-b100d64bcf1df1d5314fe6a90a78fe29: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-4047687e92e7dfae1a87317582f0f7c3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-88566aa516980da262d98eb4a0c9aab7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-e5cf05f1e9cfbf85b87bc0bdc11efb6e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-70f36ebc8b15c05290ff938b6cb26ce1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-688fe8ab940e97e71fa2e3006e145977: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1e07d453afdc882de96bc44314cc9a82: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-fe775cb27b65ea10eb0bd4c318a215b5: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2f193c554eaf82c2ce67915e0c1072ab: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-59a01e11359d0260d946642f1d0afdd1: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-0a6d536fc2b376b82da51f5558516ba2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f5663d7194891147590d06382bbf3d25: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-2d33e1e3feb8b4c250e6c2377acc01e3: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-22aa2cf6f3aa23d37fac0a75f9a4505e: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d3dd6b962797f03896610fa91e7d33a2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-e8eb6885a148b803d82ce65901475f01: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248358776880
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_each-75281ce70ebb9ad5c0325d0006e71935: !ruby/object:Camcorder::Recording
+  value:
+  - "."
+  - ".."
+  - ".DS_Store"
+  - data
+  - dir_class_spec.rb
+  - dir_instance_spec.rb
+  - file_class_spec.rb
+  - file_instance_spec.rb
+  - io_bufferio_encoding_shared_examples.rb
+  - io_bufferio_encoding_spec.rb
+  - io_bufferio_spec.rb
+  - io_class_spec.rb
+  - io_instance_spec.rb
+  - mnt
+  - recordings
+  - root_spec.rb
+  - spec_helper.rb
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-9ef17bb8d1fba635dd3a39d5fa6b24ab: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-a20f0b9233632067859e6d3f9c9e0785: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-dce3c5fe9525373fa69dbc05401289b2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-9d63afd2369208f07677e09ab15a2307: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-45ad40851ef70ee27a7f3733b106dc2d: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3c3a74eff9d41757b1aa737c3b312fe7: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-937f2f21d3501b125b0b7df397c2a532: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1893d7abc0bb265720efffcc3484bfbd: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_exist?-1893d7abc0bb265720efffcc3484bfbd: !ruby/object:Camcorder::Recording
+  value: true
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-3462d84ecfd18a5b08f1be5af4fc55fb: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ffd7dd073da79898dc753badf30656c2: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6484c636576ec078966a9fae11460495: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d526fef6e87025819aa4ac4048d8bec0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-f367011554b8b1ee2dfce6a3e1dec5ae: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-6d4dfc3bfbe9e4643d9360390aca57b4: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-ce534cdc3dee5c48c9d6e620385b8bb6: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_chdir-bcfd2d5b02b3d789215dc947e578b758: !ruby/object:Camcorder::Recording
+  value: 0
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-5b79c3a95a6ac85b6cd91668d7165e82: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-866b96b77ecd787dd1b1fc30808650bd: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-fb6c811575764371886480ece1ac7bc0: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-515d452b27f6f056fe175d64f80e6cef: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-1dc2abb71822cb721b63013438cf8911: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-7550fa4a93d6ad6468d69f983663a885: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-file_symlink?-d4955fa72fdf62a906b4e853def35475: !ruby/object:Camcorder::Recording
+  value: false
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_new-3d3a94a27ad06e52d14dc6efc65688b4: !ruby/object:Camcorder::Recording
+  value: !ruby/object:Dir
+    __cc_id: 70248358168120
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_each-519ba8d8c0c63a770a13487c5d5dcbb4: !ruby/object:Camcorder::Recording
+  value:
+  - "."
+  - ".."
+  - ".DS_Store"
+  - data
+  - dir_class_spec.rb
+  - dir_instance_spec.rb
+  - file_class_spec.rb
+  - file_instance_spec.rb
+  - io_bufferio_encoding_shared_examples.rb
+  - io_bufferio_encoding_spec.rb
+  - io_bufferio_spec.rb
+  - io_class_spec.rb
+  - io_instance_spec.rb
+  - mnt
+  - recordings
+  - root_spec.rb
+  - spec_helper.rb
+  behavior: :return
+VirtFS::CamcorderFS::CcDelegate-dir_i_close-f0d687acfe83ebb591216b06886647cf: !ruby/object:Camcorder::Recording
+  value: 
+  behavior: :return
