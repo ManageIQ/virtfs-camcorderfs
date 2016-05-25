@@ -1,7 +1,7 @@
 $LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
 require 'virtfs'
-require 'nativefs/thick'
-require 'virtfs/camcorderfs'
+require 'virtfs-nativefs-thick'
+require 'virtfs-camcorderfs'
 
 def nativefs_class
   # VirtFS::NativeFS::Thin
