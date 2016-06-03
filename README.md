@@ -7,7 +7,7 @@ A pseudo filesystem plugin for the **VirtFS** infrastructure, that provides the 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'virtfs-comcorderfs'
+gem 'virtfs-camcorderfs'
 ```
 
 And then execute:
@@ -16,11 +16,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install virtfs-comcorderfs
+    $ gem install virtfs-camcorderfs
 
 ## Usage
 
-The **virtfs-comcorderfs** enables the user to _mount_ a given directory of the native filesystem on a virtual mount point within the **virtfs** infrastructure. Once mounted, all filesystem operations performed through the virtual mount point are recorded or played back as follows:
+The **virtfs-camcorderfs** enables the user to _mount_ a given directory of the native filesystem on a virtual mount point within the **virtfs** infrastructure. Once mounted, all filesystem operations performed through the virtual mount point are recorded or played back as follows:
 
 When a `VirtFS::CamcorderFS::FS` instance is instantiated, it is passed the loaction of the recording (cassette) file to be used.
 
@@ -30,13 +30,13 @@ When a `VirtFS::CamcorderFS::FS` instance is instantiated, it is passed the loac
 
 This capability is very useful in developing automated tests that rely on specific aspects of the filesystem that may not be available in the automated test environment (like Travis).
 
-For example, say your tests require access to an NFS share or a block special file. Chances are, the share or special file in question will not be accessible in the Travis environment. The **virtfs-comcorderfs** plugin provides a solution to this problem similar to the solutions provided by the **VCR** and **camcorder** gems. In fact, as the name implies, **virtfs-comcorderfs** uses the **camcorder** gem to perform record/playback.
+For example, say your tests require access to an NFS share or a block special file. Chances are, the share or special file in question will not be accessible in the Travis environment. The **virtfs-camcorderfs** plugin provides a solution to this problem similar to the solutions provided by the [**VCR**](https://github.com/vcr/vcr) and [**camcorder**](https://github.com/ghempton/camcorder) gems. In fact, as the name implies, **virtfs-camcorderfs** uses the **camcorder** gem to perform record/playback.
 
 So, the tests are first run in the base test environemnt, the cassette files are recorded and committed along with the tests. When the tests are run within the Travis environemnt, the filesystem interactions are played back from the cassette files, eliminating the need to access the aspects of the filesystem that are not available in the Travis environemnt.
 
 ```ruby
 require "virtfs-nativefs-thick"
-require "virtfs-comcorderfs"
+require "virtfs-camcorderfs"
 
 # Instantiate an instance of the native filesystem.
 native_fs = VirtFS::NativeFS::Thick.new
