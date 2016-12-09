@@ -33,6 +33,10 @@ describe "CamcorderFS::File instance methods" do
     VfsRealFile.delete(@recording_file) if VfsRealFile.exist?(@recording_file)
   end
 
+  after(:all) do
+    VfsRealFile.delete(@recording_file)
+  end
+
   %w( Record Playback ).each do |mode|
     context "Mode: #{mode}" do
       before(:all) do

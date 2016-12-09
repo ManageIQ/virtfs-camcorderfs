@@ -24,7 +24,7 @@ describe "CamcorderFS mount sub-dir on sub-dir" do
 
   after(:all) do
     VirtFS.umount(@root)
-    # VfsRealFile.delete(@recording_file)
+    VfsRealFile.delete(@recording_file)
   end
 
   %w( Record Playback ).each do |mode|
