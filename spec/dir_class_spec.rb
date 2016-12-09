@@ -19,7 +19,7 @@ describe "CamcorderFS::Dir class methods" do
   end
 
   after(:all) do
-    # VfsRealFile.delete(@recording_file)
+    VfsRealFile.delete(@recording_file)
   end
 
   %w( Record Playback ).each do |mode|

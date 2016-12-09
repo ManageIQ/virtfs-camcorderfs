@@ -24,15 +24,14 @@ describe VirtFS::VIO do
 
     @recording_file = recording_file_name(__FILE__)
     VfsRealFile.delete(@recording_file) if VfsRealFile.exist?(@recording_file)
-  end
 
-  before(:all) do
     @cc_fs = VirtFS::CamcorderFS::FS.new(@recording_file)
     VirtFS.mount(@cc_fs, @root)
   end
 
   after(:all) do
     VirtFS.umount(@root)
+    VfsRealFile.delete(@recording_file)
   end
 
   before(:each) do
