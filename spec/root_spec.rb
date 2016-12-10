@@ -12,7 +12,7 @@ describe "CamcorderFS mount sub-dir on sub-dir" do
     @this_dir  = VfsRealDir.getwd
     @root      = File::SEPARATOR
 
-    @cc_mount_point = File.join(@spec_dir, 'mnt')
+    @cc_mount_point = VfsRealDir.mktmpdir("vfs_spec_mnt-")
     @tmp_dir_path   = VfsRealDir.mktmpdir("vfs_spec_tmp-") { |dp| dp }
 
     @native_fs  = nativefs_class.new
@@ -24,6 +24,7 @@ describe "CamcorderFS mount sub-dir on sub-dir" do
 
   after(:all) do
     VirtFS.umount(@root)
+    FileUtils.remove_dir(@cc_mount_point)
     VfsRealFile.delete(@recording_file)
   end
 
