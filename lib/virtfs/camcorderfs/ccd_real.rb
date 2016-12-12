@@ -11,11 +11,12 @@
 # the VfsRealFile constant to do this, it results in recording an ambiguous
 # instance reference to the cassette. This is because:
 #
-#    VfsRealFile.class.name == File (not VfsRealFile)
-#    File.class.name == VirtFS::vFile
+#    VfsRealFile.class.name == File          (not VfsRealFile)
+#    File.class.name        == File          (when not activated)
+#    File.class.name        == VirtFS::vFile (when activated)
 #
-# This results in failed cassette playback because it won't be able to find
-# a VirtFS::vFile entry in the cassette.
+# This results in failed cassette playback during activation because it won't
+# be able to find a VirtFS::vFile entry in the cassette.
 #
 # Using a proper subclass of the "real" File class solves this problem, because:
 #    CcRealFile.class.name == CcRealFile
