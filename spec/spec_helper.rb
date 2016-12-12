@@ -1,4 +1,5 @@
 $LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
+require 'tempfile'
 require 'virtfs'
 require 'virtfs-nativefs-thick'
 require 'virtfs-camcorderfs'
