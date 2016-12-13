@@ -22,4 +22,4 @@ require_relative "camcorderfs/fs_file_instance"
 require_relative "camcorderfs/dir"
 
 # CamcorderFS::File
-require_relative "camcorderfs/File"
+require_relative "camcorderfs/file"

@@ -404,25 +404,27 @@ describe "CamcorderFS::File class methods" do
         end
       end
 
-      describe ".lchmod" do
-        it "should raise Errno::ENOENT when given a nonexistent file" do
-          expect do
-            VirtFS::VFile.lchmod(0755, "nonexistent_file")
-          end.to raise_error(
-            Errno::ENOENT, /No such file or directory/
-          )
-        end
+      if VfsRealFile.respond_to?(:lchmod)
+        describe ".lchmod" do
+          it "should raise Errno::ENOENT when given a nonexistent file" do
+            expect do
+              VirtFS::VFile.lchmod(0755, "nonexistent_file")
+            end.to raise_error(
+              Errno::ENOENT, /No such file or directory/
+            )
+          end
 
-        it "should return the number of files processed" do
-          expect(VirtFS::VFile.lchmod(0777, @full_path)).to eq(1)
-          expect(VirtFS::VFile.lchmod(0777, @full_path, @full_path2)).to eq(2)
-        end
+          it "should return the number of files processed" do
+            expect(VirtFS::VFile.lchmod(0777, @full_path)).to eq(1)
+            expect(VirtFS::VFile.lchmod(0777, @full_path, @full_path2)).to eq(2)
+          end
 
-        it "should change the permission bits on an existing file" do
-          target_mode = 0755
-          expect(VirtFS::VFile.stat(@full_path).mode & 0777).to_not eq(target_mode)
-          VirtFS::VFile.lchmod(target_mode, @full_path)
-          expect(VirtFS::VFile.stat(@full_path).mode & 0777).to eq(target_mode)
+          it "should change the permission bits on an existing file" do
+            target_mode = 0755
+            expect(VirtFS::VFile.stat(@full_path).mode & 0777).to_not eq(target_mode)
+            VirtFS::VFile.lchmod(target_mode, @full_path)
+            expect(VirtFS::VFile.stat(@full_path).mode & 0777).to eq(target_mode)
+          end
         end
       end
 
@@ -622,7 +624,7 @@ describe "CamcorderFS::File class methods" do
 
         it "should raise Errno::ENOENT when given a nonexistent file" do
           expect do
-            VirtFS::VFile.rename("nonexistent_file1", @to_path)
+            VirtFS::VFile.rename("nonexistent_file1", "something")
           end.to raise_error(
             Errno::ENOENT, /No such file or directory/
           )
