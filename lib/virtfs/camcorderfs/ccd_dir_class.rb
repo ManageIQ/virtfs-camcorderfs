@@ -35,7 +35,7 @@ module VirtFS::CamcorderFS # rubocop:disable Style/ClassAndModuleChildren
       owd = VfsRealDir.getwd
       begin
         VfsRealDir.chdir(cwd)
-        return marshallable_dir(VfsRealDir.new(fs_rel_path, hash_args))
+        return marshallable_dir(CcRealDir.new(fs_rel_path, hash_args))
       ensure
         VfsRealDir.chdir(owd)
       end

@@ -5,6 +5,7 @@ require_relative "camcorderfs/version"
 
 # CamcorderFS::CcDelegate
 require_relative "camcorderfs/ccd_base"
+require_relative "camcorderfs/ccd_real"
 require_relative "camcorderfs/ccd_dir_class"
 require_relative "camcorderfs/ccd_dir_instance"
 require_relative "camcorderfs/ccd_file_class"
