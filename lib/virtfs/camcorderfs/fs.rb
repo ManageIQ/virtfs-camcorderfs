@@ -1,7 +1,17 @@
+require_relative 'fs/dir_class_methods'
+require_relative 'fs/dir_instance_methods'
+require_relative 'fs/file_class_methods'
+require_relative 'fs/file_instance_methods'
+
 module VirtFS::CamcorderFS # rubocop:disable Style/ClassAndModuleChildren
   class FS
     attr_accessor :mount_point, :name, :root
     attr_reader   :recording_path
+
+    include DirClassMethods
+    include DirInstanceMethods
+    include FileClassMethods
+    include FileInstanceMethods
 
     def initialize(recording_path = nil, root = VfsRealFile::SEPARATOR)
       @mount_point  = nil
