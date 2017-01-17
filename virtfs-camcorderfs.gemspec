@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'virtfs/camcorderfs/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "comcorderfs"
+  spec.name          = "virtfs-camcorderfs"
   spec.version       = VirtFS::CamcorderFS::VERSION
   spec.authors       = ["Richard Oliveri"]
   spec.email         = ["roliveri@redhat.com"]
