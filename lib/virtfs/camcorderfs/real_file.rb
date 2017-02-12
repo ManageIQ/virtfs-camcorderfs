@@ -22,9 +22,6 @@
 #    CcRealFile.class.name == CcRealFile
 #
 module VirtFS::CamcorderFS # rubocop:disable Style/ClassAndModuleChildren
-  class CcRealFile < VfsRealFile
-  end
-
-  class CcRealDir < VfsRealDir
+  class RealFile < VfsRealFile
   end
 end
