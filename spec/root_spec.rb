@@ -66,6 +66,18 @@ describe "CamcorderFS mount sub-dir on sub-dir" do
           @cc_fs.root = @root
           expect(VirtFS::VDir.entries(@cc_mount_point)).to match_array(VirtFS::VDir.entries(@root))
         end
+
+        it "should be able to read a file" do
+          # First - mount @spec_dir as CamcorderFS, under @cc_mount_point
+          @cc_fs.root = @spec_dir
+          file = VirtFS::VDir.entries(@spec_dir)[1]
+          f1 = VirtFS::VFile.new("#{@spec_dir}/#{file}").read
+
+          VirtFS.dir_chdir(@spec_dir)
+          f2 = VirtFS::VFile.new(file).read
+
+          expect(f1).to eq(f2)
+        end
       end
 
       context "Write access" do
