@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'virtfs', "~> 0.0.1", :git => "https://github.com/ManageIQ/virtfs.git", :branch => "master"
+# Uncomment the following for local testing/developemnt.
+# gem 'virtfs', "~> 0.0.1", :path => "/mnt/hgfs/XXX/src/git/my_gems/virtfs"
 
 # Specify your gem's dependencies in comcorderfs.gemspec
 gemspec

@@ -1,5 +1,6 @@
 require 'openssl'
 require 'camcorder'
+require 'log_decorator'
 
 require_relative "camcorderfs/version"
 

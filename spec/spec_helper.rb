@@ -1,4 +1,24 @@
 $LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
+
+require "log_decorator"
+
+def log_init
+  require "logger"
+
+  log = Logger.new(STDERR)
+  log.formatter = lambda { |_severity, _datetime, _progname, msg| "#{msg}\n" }
+  log.level = case ENV['LOG_LEVEL']
+              when 'ERROR' then Logger::ERROR
+              when 'WARN'  then Logger::WARN
+              when 'INFO'  then Logger::INFO
+              when 'DEBUG' then Logger::DEBUG
+              else              Logger::ERROR
+              end
+  LogDecorator.logger = log
+end
+
+log_init
+
 require 'tempfile'
 require 'virtfs'
 require 'virtfs-nativefs-thick'
