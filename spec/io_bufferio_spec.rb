@@ -506,8 +506,8 @@ describe "CamcorderFS::IO bufferio methods" do
       end
 
       describe "#readbyte" do
-        it "should return a Fixnum" do
-          expect(@vfile_read_obj.getbyte).to be_kind_of(Fixnum)
+        it "should return an Integer" do
+          expect(@vfile_read_obj.getbyte).to be_kind_of(Integer)
         end
 
         it "should raise EOFError when at EOF" do

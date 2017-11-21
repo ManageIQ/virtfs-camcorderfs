@@ -79,8 +79,8 @@ shared_examples_for "common_each_each_codepoint" do
 end
 
 shared_examples_for "common_getbyte" do
-  it "should return a Fixnum" do
-    expect(@vfile_read_obj.getbyte).to be_kind_of(Fixnum)
+  it "should return an Integer" do
+    expect(@vfile_read_obj.getbyte).to be_kind_of(Integer)
   end
 
   it "should return nil when at EOF" do

@@ -143,6 +143,7 @@ module VirtFS::CamcorderFS # rubocop:disable Style/ClassAndModuleChildren
       end
 
       def file_symlink?(p)
+        _log.debug p
         ccd_call(__method__, apply_root(p))
       end
 
@@ -170,8 +171,9 @@ module VirtFS::CamcorderFS # rubocop:disable Style/ClassAndModuleChildren
         ccd_call(__method__, apply_root(p))
       end
 
-      def file_new(fs_rel_path, parsed_args, open_path, cwd)
-        instance_handle = ccd_call(__method__, apply_root(fs_rel_path), parsed_args, open_path, cwd)
+      def file_new(fs_rel_path, parsed_args, _open_path, cwd)
+        _log.debug "#{fs_rel_path}, #{parsed_args}, #{cwd}"
+        instance_handle = ccd_call(__method__, apply_root(fs_rel_path), parsed_args)
         VirtFS::CamcorderFS::File.new(self, instance_handle, parsed_args)
       end
     end
