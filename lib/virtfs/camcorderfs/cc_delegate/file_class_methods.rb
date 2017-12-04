@@ -141,6 +141,7 @@ module VirtFS::CamcorderFS # rubocop:disable Style/ClassAndModuleChildren
       end
 
       def file_symlink?(p)
+        _log.debug p
         VfsRealFile.symlink?(p)
       end
 
@@ -168,15 +169,10 @@ module VirtFS::CamcorderFS # rubocop:disable Style/ClassAndModuleChildren
         VfsRealFile.writable_real?(p)
       end
 
-      def file_new(fs_rel_path, parsed_args, _open_path, cwd)
-        owd = VfsRealDir.getwd
-        begin
-          VfsRealDir.chdir(cwd)
-          fobj = RealFile.new(fs_rel_path, parsed_args.mode_bits & ~VfsRealFile::APPEND, :binmode => true)
-          return marshallable_file(fobj)
-        ensure
-          VfsRealDir.chdir(owd)
-        end
+      def file_new(fs_rel_path, parsed_args)
+        _log.debug "#{fs_rel_path}, #{parsed_args}"
+        fobj = RealFile.new(fs_rel_path, parsed_args.mode_bits & ~VfsRealFile::APPEND, :binmode => true)
+        return marshallable_file(fobj)
       end
 
       def marshallable_file(file)

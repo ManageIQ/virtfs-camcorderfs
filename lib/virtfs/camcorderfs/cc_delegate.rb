@@ -5,6 +5,7 @@ require_relative 'cc_delegate/file_instance_methods'
 
 module VirtFS::CamcorderFS # rubocop:disable Style/ClassAndModuleChildren
   class CcDelegate
+    include LogDecorator::Logging
     include DirClassMethods
     include DirInstanceMethods
     include FileClassMethods

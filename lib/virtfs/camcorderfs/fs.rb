@@ -8,6 +8,7 @@ module VirtFS::CamcorderFS # rubocop:disable Style/ClassAndModuleChildren
     attr_accessor :mount_point, :name, :root
     attr_reader   :recording_path
 
+    include LogDecorator::Logging
     include DirClassMethods
     include DirInstanceMethods
     include FileClassMethods
